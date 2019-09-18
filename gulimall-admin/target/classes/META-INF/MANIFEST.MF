@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: gulimall-admin
+Implementation-Version: 1.0.0
+Built-By: Administrator
+Implementation-Vendor-Id: com.atguigu
+Build-Jdk: 1.8.0_144
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/gulimall-admin
+Created-By: Maven Integration for Eclipse
+
